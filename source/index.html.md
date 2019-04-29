@@ -22,6 +22,20 @@ It exposes the Gripable API through Unity, allowing developers with access to a 
 
 To get started with Gripable Play Unity, follow the steps [here](https://bitbucket.org/gripable/gripable-play-unity/src/master/README.md).
 
+# Releases
+
+Check out from these links the documentation for the released versions of Gripable Play Unity.
+
+## Development
+
+The following link leads to the documentation of features still in development and not yet released.
+
+* [develop](https://gripableteam.github.io/gripable-play-unity-docs-develop)
+
+## Releases
+
+As of now, version 1.0.0 is the only released version of Gripable Play Unity.
+
 # Accessing the Gripable Plugin
 
 The Gripable Plugin is statically accessed to retrieve the main ojects needed to interface with the Gripable Play device. At the moment the Gripable Plugin allows you to retrieve up to two available Gripable Play devices and the UDP Client Manager. The Gripable Plugin does not need any setup and can be called statically when needed.
