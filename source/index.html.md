@@ -26,13 +26,13 @@ To get started with Gripable Play Unity, follow the steps [here](https://bitbuck
 
 Check out from these links the documentation for the released versions of Gripable Play Unity.
 
-## Development
+### Development
 
 The following link leads to the documentation of features still in development and not yet released.
 
 * [develop](https://gripableteam.github.io/gripable-play-unity-docs-develop)
 
-## Releases
+### Releases
 
 As of now, version 1.0.0 is the only released version of Gripable Play Unity.
 
